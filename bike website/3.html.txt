@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>
+xuv 300
+</title>
+<body>
+<h1>It rides faster than it looks. This fighter is the only 200cc naked bike with real racing genes. High-tech components – such as the ultra-compact, water-cooled, single-cylinder, 4-stroke engine, dual-channel ABS and the ultralight tubular trellis frame, state-of-the-art injection electronics, cutting-edge WP suspension and elegant swingarm – are all perfectly integrated to ensure maximum riding fun and dynamic cornering.
+</h1>
+<a href="https://www.ktm.com/en-in/models/naked-bike/ktm-200-duke-2020.html"><button name="simple_button" type="button">
+XUV 300
+</button></a>
+</body>
+</head>
+</html>

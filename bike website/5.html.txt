@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>
+xuv 300
+</title>
+<body>
+<h1>KTM 390 Adventure comes with a bi-directional quick shifter</h1>
+<a href="https://www.zigwheels.com/newbikes/KTM/390-adventure/qna"><button name="simple_button" type="button">
+XUV 700
+</button></a>
+</body>
+</head>
+</html>

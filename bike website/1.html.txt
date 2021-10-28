@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+KTM BIKES
+</title>
+<body>
+<h1> 200 rc </h1>
+<img src="D:\bike website\download (1).jpg">
+<a href="indexscorpio.html">About us</a>
+<h2> DUke 200 </h2>
+<img src="D:\bike website\download.jpg">
+<a href="xuv 300.html">About us</a>
+<h3> 250 DUKE </h3>
+<img src="D:\bike website\photo-1560693312-f3be1898e06c.jpg">
+<a href="xuv500.html">About us</a>
+<h4> RC 390 </h4>
+<img src="D:\bike website\images.jpg">
+<a href="xuv700.html">About us</a>
+</body>
+</head>
+</html>

@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>
+    KTM RC 200
+</title>
+<body>
+    <img src="D:\bike website\download.jpg">
+<h1>The KTM 200 Duke is a 199.5 cc (12.17 cu in) single-cylinder standard motorcycle made by KTM since 2012.[1] It has a four-stroke, spark-ignition liquid-cooled engine. It has six-speed gearbox and a cable actuated multi-disc clutch. The bike has an underbelly exhaust and a three-chamber silencer positioned close to its centre of gravity.
+
+    The Duke 200 is manufactured at Bajaj Autos Chakan Plant in India.[2] In Colombia, it is being assembled by the company Auteco S.A.[3] In Argentina, is being assembled by the company Simpa S.A. since March 2014. In the Philippines, it is being assembled by the company KTM Asia Motorcycle Manufacturing, Inc. (KAMMI) in Sta. Rosa, Laguna.[4]
+    
+    In August of 2020 the Duke 200 was released in North America after previously only being available in Asian, European and South American markets. It also featured updated styling and few other components coming from Duke 390 to match other Duke models.
+</h1>
+<a href="https://en.wikipedia.org/wiki/KTM_200_Duke"><button name="simple_button" type="button"></button>
+    KTM RC 200 </button></a>
+</body>
+</head>
+</html>
